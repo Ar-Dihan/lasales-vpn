@@ -712,6 +712,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-top: 0.75rem;
 }
 
+.text-center{
+  text-align: center;
+}
+
 .font-body{
   font-family: Rubik;
 }
