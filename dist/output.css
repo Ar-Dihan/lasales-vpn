@@ -702,6 +702,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   fill: #16a34a;
 }
 
+.object-center{
+  -o-object-position: center;
+     object-position: center;
+}
+
 .p-4{
   padding: 1rem;
 }
