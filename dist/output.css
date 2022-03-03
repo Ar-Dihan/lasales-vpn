@@ -544,11 +544,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 8rem;
 }
 
-.my-auto{
-  margin-top: auto;
-  margin-bottom: auto;
-}
-
 .my-16{
   margin-top: 4rem;
   margin-bottom: 4rem;
@@ -596,14 +591,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mt-3{
   margin-top: 0.75rem;
-}
-
-.inline-block{
-  display: inline-block;
-}
-
-.inline{
-  display: inline;
 }
 
 .flex{
@@ -666,24 +653,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 8rem;
 }
 
-.flex-none{
-  flex: none;
+.cursor-default{
+  cursor: default;
 }
 
 .cursor-alias{
   cursor: alias;
-}
-
-.cursor-none{
-  cursor: none;
-}
-
-.cursor-pointer{
-  cursor: pointer;
-}
-
-.cursor-default{
-  cursor: default;
 }
 
 .list-none{
@@ -726,38 +701,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .gap-x-16{
   -moz-column-gap: 4rem;
        column-gap: 4rem;
-}
-
-.gap-x-28{
-  -moz-column-gap: 7rem;
-       column-gap: 7rem;
-}
-
-.gap-x-32{
-  -moz-column-gap: 8rem;
-       column-gap: 8rem;
-}
-
-.gap-y-3{
-  row-gap: 0.75rem;
-}
-
-.gap-y-5{
-  row-gap: 1.25rem;
-}
-
-.gap-y-4{
-  row-gap: 1rem;
-}
-
-.gap-x-36{
-  -moz-column-gap: 9rem;
-       column-gap: 9rem;
-}
-
-.gap-x-40{
-  -moz-column-gap: 10rem;
-       column-gap: 10rem;
 }
 
 .rounded-full{
@@ -966,11 +909,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-reddi{
-  --tw-text-opacity: 1;
-  color: rgb(245 56 56 / var(--tw-text-opacity));
 }
 
 .shadow-lg{
